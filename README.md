@@ -56,5 +56,7 @@ Includes preprocessing, model training, and visual evaluation using scikit-learn
 ## Contact
 
 * GitHub: [https://github.com/daniyalf93](https://github.com/daniyalf93)
-* LinkedIn: [http://linkedin.com/DaniyalF93](http://linkedin.com/DaniyalF93)
+* LinkedIn: [www.linkedin.com/in/daniyalf93](www.linkedin.com/in/daniyalf93)
+
+)
 
